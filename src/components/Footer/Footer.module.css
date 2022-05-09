@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a:link {
+  color: white;
+}
+
+.footer a:hover, a:focus {
+  font-weight: bold;
+  outline: none;
+}
